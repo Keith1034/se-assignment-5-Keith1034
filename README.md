@@ -22,7 +22,6 @@ ix.Once the installation is complete, launch Visual Studio.Sign in with your Mic
 x.On the welcome screen, select your preferrential development environment. For example, you can choose "Development Settings" based on your preferred coding style.
 xi.Once all steps are successfully accomplished,one can start coding!
 
-
 2. First-time Setup:
    - After installing VS Code, what initial configurations and settings should be adjusted for an optimal coding environment? Mention any important settings or extensions.
 
